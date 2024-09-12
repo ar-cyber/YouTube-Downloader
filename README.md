@@ -8,7 +8,7 @@ You need:
 # Running the program
 NOTE: It only currently supports 1 link at a time
 ## Argument structure
-```python downloader.py [-f <select file format. defaults to mp4>] <link>```
+```python downloader.py [-f <select file format. defaults to mp4>] -l <link>```
 ## Analsys of arguments
 ### -f (File  format selection)
 This supports the following file formats: <br>
@@ -17,7 +17,7 @@ This supports the following file formats: <br>
 - mkv <br>
 - webm <br>
 <br>
-### link
+### -l (link)
 WARNING: YouTube music links are NOT supported. Please truncate the "music." part in the URL. <br>
 This link MUST be YouTube. It cannot be knock-offs like yewtu.be. <br>
 ## Files
