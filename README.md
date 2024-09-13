@@ -16,9 +16,8 @@ This supports the following file formats: <br>
 - mp4 <br>
 - mkv <br>
 - webm <br>
-<br>
 ### -l (link)
 WARNING: YouTube music links are NOT supported. Please truncate the "music." part in the URL. <br>
-This link MUST be YouTube. It cannot be knock-offs like yewtu.be. <br>
+This link MUST be YouTube. It cannot be knock-offs like yewtu.be. 
 ## Files
 This program dumps the files in the working directory.
